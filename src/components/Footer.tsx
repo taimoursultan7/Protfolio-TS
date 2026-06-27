@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { FiGithub, FiLinkedin, FiChevronUp, FiHeart } from 'react-icons/fi';
+import { FiGithub, FiLinkedin, FiChevronUp,} from 'react-icons/fi';
 import { FaWhatsapp } from 'react-icons/fa';
 import { motion, AnimatePresence } from 'framer-motion';
 
